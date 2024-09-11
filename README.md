@@ -51,8 +51,11 @@ The ball will be thrown and it will follow the projectile motion principles so t
 1. high speed for high altidue and wide range.
 2. high positional control for controling the angle at which the ball is being projected for either shooting or passing.
 3. high speed control for  intial speed variation.
+
 it is very hard to provide a motor that have all this characteristics without costing alot of money so the most appropriate solution is to design a mechanical arm and a hand at the end of it with two different types of motor.
+
 for the motor that is responsible for holding the arm we need to provide with high tourqe.
+
 we can use a servo motor for that as it provides:-
 1. High dynamics
 2. Great positioning accuracy
@@ -60,6 +63,7 @@ we can use a servo motor for that as it provides:-
 4. Feedback control
 5. High efficiency
 6. Power density
+   
 but one of its disadvantages that it provides tourqe at the cost of the speed (high tourqe and low speed) so to get a high speed servo motor it will cost alot of money and will have ultra high tourqe which will be wasted in this application.
  
 Servo motor link:-https://m.alibaba.com/x/AxT9MM?ck=pdp
